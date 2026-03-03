@@ -2,6 +2,6 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("1.0v");
+        Console.WriteLine("0.2v");
     }
 }
