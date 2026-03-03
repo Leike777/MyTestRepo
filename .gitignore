@@ -4,6 +4,9 @@
 # VS
 .vs/
 
+#VSCode
+.vscode/
+
 # Build output（每个项目下）
 **/bin/
 **/obj/
