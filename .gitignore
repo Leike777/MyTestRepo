@@ -1,0 +1,19 @@
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Build output（每个项目下）
+**/bin/
+**/obj/
+
+# 用户文件
+*.user
+*.suo
+
+# 日志
+*.log
